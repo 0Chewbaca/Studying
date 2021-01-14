@@ -12,6 +12,8 @@ print("""
 Factroial App
 ----------------
 """)
-number = int(input("Please type your number that you want to learn the factorial of: "))
-
+try:
+    number = int(input("Please type your number that you want to learn the factorial of: "))
+except:
+    print("Please type an integer!")
 Factorial(number)

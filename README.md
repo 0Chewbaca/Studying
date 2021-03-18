@@ -1,1 +1,3 @@
 # Studying
+
+A repository that I sometimes update when I make small projects...
